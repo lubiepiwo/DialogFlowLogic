@@ -1,0 +1,38 @@
+[
+  {
+    "id": "bafbad06-b0d7-4b5c-9f48-83086eaeec11",
+    "data": [
+      {
+        "text": "otro más",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525307345
+  },
+  {
+    "id": "cdee2520-a4d0-4329-a5f5-9e29a12cda8a",
+    "data": [
+      {
+        "text": "otro",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525307345
+  },
+  {
+    "id": "80203faa-05f8-49df-b5c2-75d3405d791c",
+    "data": [
+      {
+        "text": "más",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525307345
+  }
+]

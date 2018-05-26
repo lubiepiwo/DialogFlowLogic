@@ -1,0 +1,28 @@
+{
+  "id": "e4ded5e5-443c-4f72-9af2-63c72a360e99",
+  "name": "molestar-al-bot",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522603320,
+  "fallbackIntent": false,
+  "events": []
+}

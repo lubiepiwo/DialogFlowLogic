@@ -1,0 +1,28 @@
+{
+  "id": "6ca208f7-daf0-48ca-8789-15c28bd86ad8",
+  "name": "afirmación",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Ok!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526217004,
+  "fallbackIntent": false,
+  "events": []
+}

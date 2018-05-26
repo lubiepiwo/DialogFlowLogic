@@ -1,0 +1,95 @@
+{
+  "id": "fc82bb0f-9220-4c83-a3d8-249e769f5690",
+  "name": "lugar-general-contexto",
+  "auto": true,
+  "contexts": [
+    "setPlace"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "nearbysearch.input",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6a1fcb4c-6463-4d16-98c5-2735cbfd1384",
+          "required": false,
+          "dataType": "@dev_places",
+          "name": "place",
+          "value": "#setPlace.place",
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "No sé por qué servicio estás buscando exactamente."
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "be5c98a6-2b40-4128-943b-b1afd7acacba",
+          "required": false,
+          "dataType": "@dev_mun",
+          "name": "municipio",
+          "value": "$municipio",
+          "prompts": [],
+          "defaultValue": "#setPlace.municipio",
+          "isList": false
+        },
+        {
+          "id": "8664c3c1-417d-441f-be60-a5b01314f314",
+          "required": false,
+          "dataType": "@price",
+          "name": "price",
+          "value": "$price",
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Caro o barato?"
+            }
+          ],
+          "defaultValue": "#setPlace.price",
+          "isList": false
+        },
+        {
+          "id": "47652c9d-36e0-4ed3-b385-714d047499fe",
+          "required": false,
+          "dataType": "@state",
+          "name": "state",
+          "value": "$state",
+          "prompts": [],
+          "defaultValue": "#setPlace.state",
+          "isList": false
+        },
+        {
+          "id": "a9464391-8f82-4344-890c-e8139daa28c8",
+          "required": false,
+          "dataType": "@rating",
+          "name": "rating",
+          "value": "$rating",
+          "prompts": [],
+          "defaultValue": "#setPlace.rating",
+          "isList": false
+        },
+        {
+          "id": "1a37433b-6c4e-4f4b-9688-b6f0fa63f492",
+          "required": false,
+          "dataType": "@minmax",
+          "name": "minmax",
+          "value": "$minmax",
+          "prompts": [],
+          "defaultValue": "#setPlace.minmax",
+          "isList": false
+        }
+      ],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526217607,
+  "fallbackIntent": false,
+  "events": []
+}

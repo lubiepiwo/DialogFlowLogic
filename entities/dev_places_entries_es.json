@@ -1,0 +1,435 @@
+[
+  {
+    "value": "bicycle_store",
+    "synonyms": [
+      "bicycle_store",
+      "tienda de bicis",
+      "bicis",
+      "bicicletas"
+    ]
+  },
+  {
+    "value": "bakery",
+    "synonyms": [
+      "bakery",
+      "panadería",
+      "panaderia",
+      "tienda de pan",
+      "donde venden pan",
+      "donde se vende pan",
+      "comprar pan",
+      "panaderias"
+    ]
+  },
+  {
+    "value": "university",
+    "synonyms": [
+      "university",
+      "universidad",
+      "universidades"
+    ]
+  },
+  {
+    "value": "church",
+    "synonyms": [
+      "church",
+      "iglesia",
+      "iglesias"
+    ]
+  },
+  {
+    "value": "cafe",
+    "synonyms": [
+      "cafe",
+      "cafeteria",
+      "cafetería",
+      "café",
+      "cafeterias",
+      "cafes"
+    ]
+  },
+  {
+    "value": "veterinary_care",
+    "synonyms": [
+      "veterinary_care",
+      "veterinario",
+      "veterinarios"
+    ]
+  },
+  {
+    "value": "stadium",
+    "synonyms": [
+      "stadium",
+      "estadio",
+      "estadios"
+    ]
+  },
+  {
+    "value": "jewelry_store",
+    "synonyms": [
+      "jewelry_store",
+      "joyería",
+      "joyeria",
+      "joyas",
+      "joyerias"
+    ]
+  },
+  {
+    "value": "liquor_store",
+    "synonyms": [
+      "liquor_store",
+      "licorería",
+      "licoreria",
+      "venta de licores",
+      "bebidas alcohólicas",
+      "bebidas alcoholicas",
+      "licorerias"
+    ]
+  },
+  {
+    "value": "night_club",
+    "synonyms": [
+      "nightclub",
+      "club de noche",
+      "club nocturno",
+      "club",
+      "discoteca",
+      "garito",
+      "cabaret",
+      "clubs",
+      "garitos",
+      "clubes",
+      "discotecas"
+    ]
+  },
+  {
+    "value": "unknown",
+    "synonyms": [
+      "unknown",
+      "punto de interés",
+      "punto de interes"
+    ]
+  },
+  {
+    "value": "local_government_office",
+    "synonyms": [
+      "local_government_office",
+      "ayuntamiento",
+      "ayuntamientos"
+    ]
+  },
+  {
+    "value": "pharmacy",
+    "synonyms": [
+      "farmacia",
+      "medicina",
+      "medicinas",
+      "herbolario",
+      "botica",
+      "herbolarios",
+      "boticas",
+      "farmacias"
+    ]
+  },
+  {
+    "value": "amusement_park",
+    "synonyms": [
+      "amusement_park",
+      "parque de atracciones"
+    ]
+  },
+  {
+    "value": "fire_station",
+    "synonyms": [
+      "bomberos",
+      "fire_station",
+      "incendio"
+    ]
+  },
+  {
+    "value": "hair_care",
+    "synonyms": [
+      "hair_care",
+      "peluquería",
+      "pelu",
+      "peluqueria",
+      "pelo",
+      "peluquerias"
+    ]
+  },
+  {
+    "value": "spa",
+    "synonyms": [
+      "spa",
+      "balneario",
+      "spas",
+      "balnearios"
+    ]
+  },
+  {
+    "value": "car_rental",
+    "synonyms": [
+      "car_rental",
+      "alquiler de coches",
+      "rentar un carro",
+      "rentar un coche",
+      "alquiler de carro",
+      "rentacar",
+      "alquileres de coches"
+    ]
+  },
+  {
+    "value": "movie_theater",
+    "synonyms": [
+      "movie_theater",
+      "cine",
+      "cines"
+    ]
+  },
+  {
+    "value": "aquarium",
+    "synonyms": [
+      "aquarium",
+      "acuario",
+      "acuarios"
+    ]
+  },
+  {
+    "value": "police",
+    "synonyms": [
+      "police",
+      "poli",
+      "policia",
+      "policía",
+      "polis",
+      "comisario",
+      "comisaría",
+      "comisaria",
+      "madero",
+      "gendarme",
+      "comisarias"
+    ]
+  },
+  {
+    "value": "beauty_salon",
+    "synonyms": [
+      "beauty_salon",
+      "salón de belleza",
+      "salon de belleza",
+      "salones de belleza"
+    ]
+  },
+  {
+    "value": "clothing_store",
+    "synonyms": [
+      "clothing_store",
+      "tienda de ropa",
+      "comprar ropa",
+      "tiendas de ropa"
+    ]
+  },
+  {
+    "value": "pan",
+    "synonyms": [
+      "pan"
+    ]
+  },
+  {
+    "value": "car_wash",
+    "synonyms": [
+      "car_wash",
+      "lavadero",
+      "lavado de coche",
+      "lavar el coche",
+      "lavaderos"
+    ]
+  },
+  {
+    "value": "atm",
+    "synonyms": [
+      "atm",
+      "cajero",
+      "sacar dinero",
+      "cajeros"
+    ]
+  },
+  {
+    "value": "restaurant",
+    "synonyms": [
+      "restaurant",
+      "restaurante",
+      "comer",
+      "restaurantes"
+    ]
+  },
+  {
+    "value": "zoo",
+    "synonyms": [
+      "zoo",
+      "zoológico",
+      "zoologico",
+      "zoológicos"
+    ]
+  },
+  {
+    "value": "taxi_stand",
+    "synonyms": [
+      "taxi_stand",
+      "taxi",
+      "taxis"
+    ]
+  },
+  {
+    "value": "campground",
+    "synonyms": [
+      "campground",
+      "campamento",
+      "camping",
+      "acampar",
+      "acampada",
+      "campamentos"
+    ]
+  },
+  {
+    "value": "art_gallery",
+    "synonyms": [
+      "art_gallery",
+      "galería de arte",
+      "galeria de arte",
+      "arte",
+      "galerias de arte"
+    ]
+  },
+  {
+    "value": "bar",
+    "synonyms": [
+      "bar",
+      "bares"
+    ]
+  },
+  {
+    "value": "bus_station",
+    "synonyms": [
+      "bus_station",
+      "parada de bus",
+      "para de autobus",
+      "autobús",
+      "autobus",
+      "guagua",
+      "parada de guagua",
+      "paradas"
+    ]
+  },
+  {
+    "value": "parking",
+    "synonyms": [
+      "parking",
+      "aparcamiento",
+      "aparcar",
+      "aparcamientos",
+      "parkings"
+    ]
+  },
+  {
+    "value": "panes",
+    "synonyms": [
+      "panes"
+    ]
+  },
+  {
+    "value": "post_office",
+    "synonyms": [
+      "post_office",
+      "oficina de correos",
+      "correos",
+      "oficina postal",
+      "oficinas de correos",
+      "oficinas postales"
+    ]
+  },
+  {
+    "value": "casino",
+    "synonyms": [
+      "casino",
+      "casa de apuestas",
+      "apostar",
+      "apuestas",
+      "casas de apuestas"
+    ]
+  },
+  {
+    "value": "meal_takeaway",
+    "synonyms": [
+      "meal_takeaway",
+      "comida para llevar"
+    ]
+  },
+  {
+    "value": "mosque",
+    "synonyms": [
+      "mosque",
+      "mezquita",
+      "mezquitas"
+    ]
+  },
+  {
+    "value": "museum",
+    "synonyms": [
+      "museum",
+      "museo",
+      "museos"
+    ]
+  },
+  {
+    "value": "park",
+    "synonyms": [
+      "park",
+      "parque",
+      "parques"
+    ]
+  },
+  {
+    "value": "gas_station",
+    "synonyms": [
+      "gas_station",
+      "gasolinera",
+      "gasolina",
+      "gasoil",
+      "gasolineras"
+    ]
+  },
+  {
+    "value": "hospital",
+    "synonyms": [
+      "hospital",
+      "hospital",
+      "urgencias",
+      "ambulancia",
+      "hospitales"
+    ]
+  },
+  {
+    "value": "bowling_alley",
+    "synonyms": [
+      "bowling_alley",
+      "bolera",
+      "bolos",
+      "boleras"
+    ]
+  },
+  {
+    "value": "lodging",
+    "synonyms": [
+      "motel",
+      "hotel",
+      "alquiler",
+      "hospedarse",
+      "pasar la noche",
+      "alojamiento",
+      "lodging",
+      "hoteles",
+      "moteles",
+      "alquileres"
+    ]
+  }
+]

@@ -1,0 +1,55 @@
+{
+  "id": "98c03011-5874-4992-aad6-1ad59c3740dd",
+  "name": "location_request",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "location.input",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 4,
+          "platform": "telegram",
+          "lang": "es",
+          "payload": {
+            "telegram": {
+              "text": "Envíame tu ubicación para poder ayudarte mejor :)",
+              "reply_markup": {
+                "one_time_keyboard": true,
+                "resize_keyboard": true,
+                "keyboard": [
+                  [
+                    {
+                      "text": "Enviar ubicación",
+                      "request_location": true
+                    }
+                  ]
+                ]
+              }
+            }
+          }
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522105302,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "locate_me"
+    }
+  ]
+}

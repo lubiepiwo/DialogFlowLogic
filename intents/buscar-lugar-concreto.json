@@ -1,0 +1,38 @@
+{
+  "id": "22bc7f3e-fbbd-4772-a14b-c30f69268e1e",
+  "name": "buscar-lugar-concreto",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "textsearch.input",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f3001311-8d21-49a1-bc8d-743517e61d10",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "place",
+          "value": "$place",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Buscando lugar concreto . . ."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526759401,
+  "fallbackIntent": false,
+  "events": []
+}

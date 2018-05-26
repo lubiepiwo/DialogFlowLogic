@@ -1,0 +1,88 @@
+{
+  "id": "1c5b6e1c-935a-493f-a87b-f8a29a27ab21",
+  "name": "buscar-lugar-general",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "nearbysearch.input",
+      "affectedContexts": [
+        {
+          "name": "setPlace",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "e3c6cb7b-f3f9-4739-a260-02f4061ed610",
+          "required": false,
+          "dataType": "@dev_places",
+          "name": "place",
+          "value": "$place",
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Si buscas un sitio concreto escribe solo el nombre, si no dime que tipo de sitio buscas :)"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "a8ff2d47-ba1a-4e5d-a720-3af0a3f795e5",
+          "required": false,
+          "dataType": "@state",
+          "name": "state",
+          "value": "$state",
+          "isList": false
+        },
+        {
+          "id": "5b52f092-af38-40df-8869-51c5f6e30b58",
+          "required": false,
+          "dataType": "@price",
+          "name": "price",
+          "value": "$price",
+          "isList": false
+        },
+        {
+          "id": "56a31758-7dfa-4bc5-a1c7-cdbc31f0647c",
+          "required": false,
+          "dataType": "@rating",
+          "name": "rating",
+          "value": "$rating",
+          "isList": false
+        },
+        {
+          "id": "85045adf-b489-4967-9838-8e17e49719fe",
+          "required": false,
+          "dataType": "@minmax",
+          "name": "minmax",
+          "value": "$minmax",
+          "prompts": [],
+          "defaultValue": "min",
+          "isList": false
+        },
+        {
+          "id": "c5271e50-8ca0-4d19-a8f6-b504a882120d",
+          "required": false,
+          "dataType": "@dev_mun",
+          "name": "municipio",
+          "value": "$municipio",
+          "isList": false
+        }
+      ],
+      "messages": [],
+      "defaultResponsePlatforms": {
+        "telegram": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1525741862,
+  "fallbackIntent": false,
+  "events": []
+}

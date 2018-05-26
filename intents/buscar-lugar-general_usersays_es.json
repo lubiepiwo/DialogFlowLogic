@@ -1,0 +1,1276 @@
+[
+  {
+    "id": "fef5b4fb-b1a2-437d-a92d-afe12de31e01",
+    "data": [
+      {
+        "text": "quiero ir al ",
+        "userDefined": false
+      },
+      {
+        "text": "cine",
+        "alias": "place",
+        "meta": "@dev_places",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "280246fe-046d-48c5-a4ff-9441c963de76",
+    "data": [
+      {
+        "text": "necesito ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hotel",
+        "alias": "place",
+        "meta": "@dev_places",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "barato",
+        "alias": "price",
+        "meta": "@price",
+        "userDefined": false
+      },
+      {
+        "text": " que este ",
+        "userDefined": false
+      },
+      {
+        "text": "abierto",
+        "alias": "state",
+        "meta": "@state",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "esta noche",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1525379605
+  },
+  {
+    "id": "228e6612-9d4a-4440-8749-a9e9cafde16a",
+    "data": [
+      {
+        "text": "necesito un ",
+        "userDefined": false
+      },
+      {
+        "text": "parking",
+        "alias": "place",
+        "meta": "@dev_places",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "f9346eeb-53af-4310-8157-64a8620a2cd4",
+    "data": [
+      {
+        "text": "una ",
+        "userDefined": false
+      },
+      {
+        "text": "farmacia",
+        "alias": "place",
+        "meta": "@dev_places",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "abierta",
+        "alias": "state",
+        "meta": "@state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "b1028822-6dde-40b3-844c-3671df76c6e2",
+    "data": [
+      {
+        "text": "bar",
+        "alias": "place",
+        "meta": "@dev_places",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "abierto",
+        "alias": "state",
+        "meta": "@state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525379605
+  },
+  {
+    "id": "74cb1c74-86bb-4609-943b-e097986ae2e7",
+    "data": [
+      {
+        "text": "donde hay un ",
+        "userDefined": false
+      },
+      {
+        "text": "bar",
+        "alias": "place",
+        "meta": "@dev_places",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525379605
+  },
+  {
+    "id": "ea01f1d4-beb5-4445-8f51-c50e1d213104",
+    "data": [
+      {
+        "text": "donde hay un sitio ",
+        "userDefined": false
+      },
+      {
+        "text": "abierto",
+        "alias": "state",
+        "meta": "@state",
+        "userDefined": true
+      },
+      {
+        "text": " que vendan ",
+        "userDefined": false
+      },
+      {
+        "text": "pan",
+        "alias": "place",
+        "meta": "@dev_places",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525379605
+  },
+  {
+    "id": "0c2f7dec-7798-42f9-a64e-d94f7941b2ef",
+    "data": [
+      {
+        "text": "quiero ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hotel",
+        "alias": "place",
+        "meta": "@dev_places",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "abierto",
+        "alias": "state",
+        "meta": "@state",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "muy bueno",
+        "alias": "rating",
+        "meta": "@rating",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525379605
+  },
+  {
+    "id": "23f85e33-4dd4-46a6-a87b-51cf0e151f3a",
+    "data": [
+      {
+        "text": "donde hay una ",
+        "userDefined": false
+      },
+      {
+        "text": "farmacia",
+        "alias": "place",
+        "meta": "@dev_places",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "abierta",
+        "alias": "state",
+        "meta": "@state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "19f2a01c-b957-41d2-b43a-e25fe916c999",
+    "data": [
+      {
+        "text": "donde hay un ",
+        "userDefined": false
+      },
+      {
+        "text": "garito",
+        "alias": "place",
+        "meta": "@dev_places",
+        "userDefined": false
+      },
+      {
+        "text": " con ",
+        "userDefined": false
+      },
+      {
+        "text": "maximo",
+        "alias": "minmax",
+        "meta": "@minmax",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "4 estrellas",
+        "alias": "rating",
+        "meta": "@rating",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d7e4571d-33a9-484a-92e3-f31f2374c7ab",
+    "data": [
+      {
+        "text": "dame informacion sobre ",
+        "userDefined": false
+      },
+      {
+        "text": "cafes",
+        "alias": "place",
+        "meta": "@dev_places",
+        "userDefined": false
+      },
+      {
+        "text": " cercanos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525379605
+  },
+  {
+    "id": "e231d897-e188-4ee0-aadf-e719114fbd1c",
+    "data": [
+      {
+        "text": "donde puedo pasar ",
+        "userDefined": false
+      },
+      {
+        "text": "la noche",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525379605
+  },
+  {
+    "id": "06a3d8fb-6ac3-4a32-ac7c-3c98f958b119",
+    "data": [
+      {
+        "text": "donde hay un ",
+        "userDefined": false
+      },
+      {
+        "text": "garito",
+        "alias": "place",
+        "meta": "@dev_places",
+        "userDefined": false
+      },
+      {
+        "text": " con ",
+        "userDefined": false
+      },
+      {
+        "text": "minimo",
+        "alias": "minmax",
+        "meta": "@minmax",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "3 estrellas",
+        "alias": "rating",
+        "meta": "@rating",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "52e245ed-d479-46a3-b564-e75709eee7f4",
+    "data": [
+      {
+        "text": "necesito ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "panes",
+        "alias": "place",
+        "meta": "@dev_places",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525379605
+  },
+  {
+    "id": "35af779a-4a08-46d5-af1a-0aa33f845d44",
+    "data": [
+      {
+        "text": "un sitio donde pasar la",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " noche que este ",
+        "userDefined": false
+      },
+      {
+        "text": "abierto",
+        "alias": "state",
+        "meta": "@state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525379605
+  },
+  {
+    "id": "edec3366-58ca-4915-8d95-d2f3ec517140",
+    "data": [
+      {
+        "text": "dime ",
+        "userDefined": false
+      },
+      {
+        "text": "bares",
+        "alias": "place",
+        "meta": "@dev_places",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525379605
+  },
+  {
+    "id": "d6593e91-f38c-4449-a965-85ffe5556f9e",
+    "data": [
+      {
+        "text": "necesito una ",
+        "userDefined": false
+      },
+      {
+        "text": "farmacia",
+        "alias": "place",
+        "meta": "@dev_places",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "2b5f07ae-08f7-4809-91fc-d67abdf1fbb0",
+    "data": [
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bar",
+        "alias": "place",
+        "meta": "@dev_places",
+        "userDefined": false
+      },
+      {
+        "text": " que sea ",
+        "userDefined": false
+      },
+      {
+        "text": "barato",
+        "alias": "price",
+        "meta": "@price",
+        "userDefined": false
+      },
+      {
+        "text": " y tenga ",
+        "userDefined": false
+      },
+      {
+        "text": "minimo",
+        "alias": "minmax",
+        "meta": "@minmax",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "3 estrellas",
+        "alias": "rating",
+        "meta": "@rating",
+        "userDefined": false
+      },
+      {
+        "text": " de rating",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1525379605
+  },
+  {
+    "id": "10117384-8f3e-45c0-96ca-c2e7124b42d4",
+    "data": [
+      {
+        "text": "muestrame ",
+        "userDefined": false
+      },
+      {
+        "text": "parques",
+        "alias": "place",
+        "meta": "@dev_places",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1525379605
+  },
+  {
+    "id": "8e30bde5-1f72-4c5d-9b0c-cb0ee233a49c",
+    "data": [
+      {
+        "text": "me gustaría saber de algún sitio donde ",
+        "userDefined": false
+      },
+      {
+        "text": "comprar pan",
+        "alias": "place",
+        "meta": "@dev_places",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525379605
+  },
+  {
+    "id": "ce71564e-97d3-4cac-90c8-9249b1ad1eba",
+    "data": [
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "restaurante",
+        "alias": "place",
+        "meta": "@dev_places",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "barato",
+        "alias": "price",
+        "meta": "@price",
+        "userDefined": false
+      },
+      {
+        "text": " y ",
+        "userDefined": false
+      },
+      {
+        "text": "bueno",
+        "alias": "rating",
+        "meta": "@rating",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525379605
+  },
+  {
+    "id": "ebb91424-0656-4059-816f-19df7b595a75",
+    "data": [
+      {
+        "text": "dime ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "restaurante",
+        "alias": "place",
+        "meta": "@dev_places",
+        "userDefined": false
+      },
+      {
+        "text": " cercano",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1525379605
+  },
+  {
+    "id": "2913d245-a59d-46f4-a57a-6af84321ae26",
+    "data": [
+      {
+        "text": "quiero ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "restaurante",
+        "alias": "place",
+        "meta": "@dev_places",
+        "userDefined": true
+      },
+      {
+        "text": " con ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "minimo",
+        "alias": "minmax",
+        "meta": "@minmax",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "3 estrellas",
+        "alias": "rating",
+        "meta": "@rating",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525379605
+  },
+  {
+    "id": "37349701-39b3-45cc-b934-ec593c64bf1b",
+    "data": [
+      {
+        "text": "podrias indicarme donde ",
+        "userDefined": false
+      },
+      {
+        "text": "hay",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "panaderia",
+        "alias": "place",
+        "meta": "@dev_places",
+        "userDefined": false
+      },
+      {
+        "text": " cerca?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525379605
+  },
+  {
+    "id": "0a03cd0c-8f8f-4088-8fc5-1a442725bed7",
+    "data": [
+      {
+        "text": "donde puedo encontrar ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "club",
+        "alias": "place",
+        "meta": "@dev_places",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525379605
+  },
+  {
+    "id": "7080084f-c635-47fe-a28b-6084452f91c7",
+    "data": [
+      {
+        "text": "necesito ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " mirador",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525379605
+  },
+  {
+    "id": "afcb515b-bfcb-45f0-b45b-3105209f87c7",
+    "data": [
+      {
+        "text": "necesito a la ",
+        "userDefined": false
+      },
+      {
+        "text": "policia",
+        "alias": "place",
+        "meta": "@dev_places",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525379605
+  },
+  {
+    "id": "ed691c2b-d0f7-49af-afa4-2518d0b72f9d",
+    "data": [
+      {
+        "text": "donde ",
+        "userDefined": false
+      },
+      {
+        "text": "hay",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bar",
+        "alias": "place",
+        "meta": "@dev_places",
+        "userDefined": false
+      },
+      {
+        "text": " cercano",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1525379605
+  },
+  {
+    "id": "d8bd46df-017c-40df-b9ed-e379c0d8c059",
+    "data": [
+      {
+        "text": "la ",
+        "userDefined": false
+      },
+      {
+        "text": "comisaria",
+        "alias": "place",
+        "meta": "@dev_places",
+        "userDefined": false
+      },
+      {
+        "text": " mas cercana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525379605
+  },
+  {
+    "id": "1ab4a914-2721-4ac6-ac24-ca253249b78d",
+    "data": [
+      {
+        "text": "un sitio ",
+        "userDefined": false
+      },
+      {
+        "text": "barato",
+        "alias": "price",
+        "meta": "@price",
+        "userDefined": true
+      },
+      {
+        "text": " donde comer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525379605
+  },
+  {
+    "id": "8de6dd54-003f-4ebb-becc-ee89a38e348c",
+    "data": [
+      {
+        "text": "bar",
+        "alias": "place",
+        "meta": "@dev_places",
+        "userDefined": false
+      },
+      {
+        "text": " cercano",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525379605
+  },
+  {
+    "id": "2292ddb0-8ac7-4e43-9eb0-705c520288d0",
+    "data": [
+      {
+        "text": "donde hay un ",
+        "userDefined": false
+      },
+      {
+        "text": "bar",
+        "alias": "place",
+        "meta": "@dev_places",
+        "userDefined": false
+      },
+      {
+        "text": " cerca",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8a1151a2-301d-492e-a2b6-bdb930166ad7",
+    "data": [
+      {
+        "text": "Dime ",
+        "userDefined": false
+      },
+      {
+        "text": "parques",
+        "alias": "place",
+        "meta": "@dev_places",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525379605
+  },
+  {
+    "id": "77d09c8d-1be9-4aed-90d4-c3a43260ec6c",
+    "data": [
+      {
+        "text": "donde podría tomar algo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525379605
+  },
+  {
+    "id": "b0f7e169-ec6d-4be3-8886-ce8831df82ed",
+    "data": [
+      {
+        "text": "necesito ",
+        "userDefined": false
+      },
+      {
+        "text": "un sitio donde pasar la",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " noche",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525379605
+  },
+  {
+    "id": "f83f6813-007c-4750-913f-e1b596d681e1",
+    "data": [
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hotel",
+        "alias": "place",
+        "meta": "@dev_places",
+        "userDefined": false
+      },
+      {
+        "text": " que tenga mínimo ",
+        "userDefined": false
+      },
+      {
+        "text": "3 estrellas",
+        "alias": "rating",
+        "meta": "@rating",
+        "userDefined": false
+      },
+      {
+        "text": " en las reseñas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1525379605
+  },
+  {
+    "id": "afb36e62-591f-401d-84c3-7fbdbfc4d661",
+    "data": [
+      {
+        "text": "donde está el ",
+        "userDefined": false
+      },
+      {
+        "text": "bar",
+        "alias": "place",
+        "meta": "@dev_places",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525379605
+  },
+  {
+    "id": "3af2fad2-8ebf-48f3-a418-2c68c4cfcbf2",
+    "data": [
+      {
+        "text": "un sitio ",
+        "userDefined": false
+      },
+      {
+        "text": "abierto",
+        "alias": "state",
+        "meta": "@state",
+        "userDefined": true
+      },
+      {
+        "text": " donde comprar ",
+        "userDefined": false
+      },
+      {
+        "text": "pan",
+        "alias": "place",
+        "meta": "@dev_places",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525379605
+  },
+  {
+    "id": "3a126a25-219c-4ec7-b7d0-de51b7f7d53c",
+    "data": [
+      {
+        "text": "necesito ",
+        "userDefined": false
+      },
+      {
+        "text": "comprar pan",
+        "alias": "place",
+        "meta": "@dev_places",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525379605
+  },
+  {
+    "id": "ba219039-901a-4b39-b1d2-72044f6f22be",
+    "data": [
+      {
+        "text": "algún sitio donde ",
+        "userDefined": false
+      },
+      {
+        "text": "pasar la noche",
+        "alias": "place",
+        "meta": "@dev_places",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525379605
+  },
+  {
+    "id": "896db34f-605b-4d69-9758-92991301e260",
+    "data": [
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "restaurante",
+        "alias": "place",
+        "meta": "@dev_places",
+        "userDefined": false
+      },
+      {
+        "text": " en ",
+        "userDefined": false
+      },
+      {
+        "text": "El Sauzal",
+        "alias": "municipio",
+        "meta": "@dev_mun",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525379605
+  },
+  {
+    "id": "b1845e3e-5aeb-4de7-9dba-6da51c57ef3c",
+    "data": [
+      {
+        "text": "algun sitio en ",
+        "userDefined": false
+      },
+      {
+        "text": "la laguna",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " donde ",
+        "userDefined": false
+      },
+      {
+        "text": "comer",
+        "alias": "place",
+        "meta": "@dev_places",
+        "userDefined": true
+      },
+      {
+        "text": " algo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525379605
+  },
+  {
+    "id": "a9c6b248-ff41-47dd-a16b-6e97f205bcd6",
+    "data": [
+      {
+        "text": "quiero saber donde ",
+        "userDefined": false
+      },
+      {
+        "text": "hay",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bar",
+        "alias": "place",
+        "meta": "@dev_places",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1525379605
+  },
+  {
+    "id": "2d536253-354a-4955-a221-03222a24198d",
+    "data": [
+      {
+        "text": "bar",
+        "alias": "place",
+        "meta": "@dev_places",
+        "userDefined": false
+      },
+      {
+        "text": " con ",
+        "userDefined": false
+      },
+      {
+        "text": "maximo",
+        "alias": "minmax",
+        "meta": "@minmax",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2 estrellas",
+        "alias": "rating",
+        "meta": "@rating",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525379605
+  },
+  {
+    "id": "ad566286-134a-4088-a023-8654c068188d",
+    "data": [
+      {
+        "text": "necesito parquetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525379605
+  },
+  {
+    "id": "4ee37427-10a1-4d25-a4ea-393dc38350dd",
+    "data": [
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sitio de ",
+        "userDefined": false
+      },
+      {
+        "text": "5 estrellas",
+        "alias": "rating",
+        "meta": "@rating",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1525379605
+  }
+]

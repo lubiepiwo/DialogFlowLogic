@@ -1,0 +1,103 @@
+[
+  {
+    "id": "61985181-6a21-4921-8295-e10f75ac71e4",
+    "data": [
+      {
+        "text": "suficiente por ",
+        "userDefined": false
+      },
+      {
+        "text": "hoy",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519352214
+  },
+  {
+    "id": "6f3a2930-701e-406a-8054-abbdcbf20d43",
+    "data": [
+      {
+        "text": "chao",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519352214
+  },
+  {
+    "id": "a63bedaf-e859-4882-a24c-abe7214f01c2",
+    "data": [
+      {
+        "text": "hasta luego",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519352214
+  },
+  {
+    "id": "c4f7aa6c-b8b3-414d-8af0-edb66c388d36",
+    "data": [
+      {
+        "text": "gracias",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519352214
+  },
+  {
+    "id": "99088892-c458-442c-af7a-74997ed2c236",
+    "data": [
+      {
+        "text": "nos vemos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519352214
+  },
+  {
+    "id": "e0a14115-6c90-4783-ae2e-aea4d15f1c56",
+    "data": [
+      {
+        "text": "adios",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519352214
+  },
+  {
+    "id": "d2228db7-7718-440e-917d-ff8b272e5c4e",
+    "data": [
+      {
+        "text": "me voy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519352214
+  },
+  {
+    "id": "6acfca50-0bf8-415a-8264-92da6a711f47",
+    "data": [
+      {
+        "text": "callate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522711787
+  }
+]

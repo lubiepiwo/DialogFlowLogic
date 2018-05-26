@@ -1,0 +1,45 @@
+[
+  {
+    "value": "free",
+    "synonyms": [
+      "free",
+      "gratis",
+      "gratuito",
+      "coste 0"
+    ]
+  },
+  {
+    "value": "cheap",
+    "synonyms": [
+      "cheap",
+      "barato",
+      "baratillo",
+      "nada caro"
+    ]
+  },
+  {
+    "value": "normal",
+    "synonyms": [
+      "normal",
+      "moderado",
+      "ni muy caro ni muy barato"
+    ]
+  },
+  {
+    "value": "expensive",
+    "synonyms": [
+      "caro",
+      "expensive",
+      "carillo",
+      "nada barato"
+    ]
+  },
+  {
+    "value": "very expensive",
+    "synonyms": [
+      "very expensive",
+      "muy caro",
+      "carísimo"
+    ]
+  }
+]

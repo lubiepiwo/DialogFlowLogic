@@ -1,0 +1,28 @@
+{
+  "id": "4d127201-842a-4c45-9b66-341a70a3c8b9",
+  "name": "adiós",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Hasta la próxima! Seguiré aquí para ayudarte cuando lo necesites."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526852124,
+  "fallbackIntent": false,
+  "events": []
+}

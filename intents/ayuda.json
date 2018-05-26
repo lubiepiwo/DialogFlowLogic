@@ -1,0 +1,28 @@
+{
+  "id": "02e2f038-f452-4d28-8774-4730c7bb2994",
+  "name": "ayuda",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Hola! Soy TF-TurismBot, un chatbot capaz de dar información turística sobre Tenerife, puedo indicarte lugares de interés que me solicites y aportarte información sobre ellos. ¿Qué estás buscando? (Restaurantes, monumentos, espacios públicos...)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1519876629,
+  "fallbackIntent": false,
+  "events": []
+}

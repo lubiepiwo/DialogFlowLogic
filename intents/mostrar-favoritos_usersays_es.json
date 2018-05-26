@@ -1,0 +1,188 @@
+[
+  {
+    "id": "f1bf88c3-c8ff-49c7-8583-8bb5d1abdcd6",
+    "data": [
+      {
+        "text": "bares",
+        "alias": "dev_places",
+        "meta": "@dev_places",
+        "userDefined": false
+      },
+      {
+        "text": " favoritos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524335177
+  },
+  {
+    "id": "abae5f09-efa7-460d-9eb6-5b4387777fc2",
+    "data": [
+      {
+        "text": "muestrame mis ",
+        "userDefined": false
+      },
+      {
+        "text": "hoteles",
+        "alias": "dev_places",
+        "meta": "@dev_places",
+        "userDefined": false
+      },
+      {
+        "text": " favoritos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524335177
+  },
+  {
+    "id": "800d6f2a-9a21-4d61-a273-23065ac981a1",
+    "data": [
+      {
+        "text": "sitios favoritos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524335177
+  },
+  {
+    "id": "b3dd35f7-9b28-4a97-9034-68619a88c1c4",
+    "data": [
+      {
+        "text": "mis sitios favoritos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524335177
+  },
+  {
+    "id": "f5ecbc3a-808b-4470-8f4c-7ea8fcf6ca73",
+    "data": [
+      {
+        "text": "muestrame la lista de sitios favoritos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524335177
+  },
+  {
+    "id": "69567105-d1d9-4c7b-a8a1-0e7e476ecbdb",
+    "data": [
+      {
+        "text": "spa",
+        "alias": "dev_places",
+        "meta": "@dev_places",
+        "userDefined": false
+      },
+      {
+        "text": " favorito",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524335177
+  },
+  {
+    "id": "712d3abf-b2d3-4ef0-a8c1-c9891a8a16e4",
+    "data": [
+      {
+        "text": "muestrame mis lugares favoritos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524335177
+  },
+  {
+    "id": "67786efa-d8e3-452a-aed1-69e1b3773e57",
+    "data": [
+      {
+        "text": "muestrame mis ",
+        "userDefined": false
+      },
+      {
+        "text": "parques",
+        "alias": "dev_places",
+        "meta": "@dev_places",
+        "userDefined": false
+      },
+      {
+        "text": " preferidos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524335177
+  },
+  {
+    "id": "020834d0-f12e-4c1d-a8cc-75fc003cd437",
+    "data": [
+      {
+        "text": "cuales son mis favoritos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524335177
+  },
+  {
+    "id": "31f4d5b3-0b3b-490f-9d68-ad846635174f",
+    "data": [
+      {
+        "text": "favoritos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524335177
+  },
+  {
+    "id": "447f1701-7bcc-4cb1-8267-ed083d761a85",
+    "data": [
+      {
+        "text": "dime mis lugares favoritos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524335177
+  },
+  {
+    "id": "28dc218c-ff9a-4e98-8cdd-4e23a8b42ea8",
+    "data": [
+      {
+        "text": "dime mis ",
+        "userDefined": false
+      },
+      {
+        "text": "bares",
+        "alias": "dev_places",
+        "meta": "@dev_places",
+        "userDefined": false
+      },
+      {
+        "text": " favoritos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524335177
+  }
+]

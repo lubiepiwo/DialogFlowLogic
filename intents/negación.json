@@ -1,0 +1,28 @@
+{
+  "id": "0151ce52-5fa7-4d14-a66d-fa517fb9ebdd",
+  "name": "negación",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "No!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526217050,
+  "fallbackIntent": false,
+  "events": []
+}

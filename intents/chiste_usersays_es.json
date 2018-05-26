@@ -1,0 +1,94 @@
+[
+  {
+    "id": "9d4c8926-7d67-43f3-b8b8-8f8bc5308e72",
+    "data": [
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " chiste",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525308659
+  },
+  {
+    "id": "2af9187c-d4e5-40d0-b9d3-b4715aa91a9b",
+    "data": [
+      {
+        "text": "suéltate ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " chiste",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525308659
+  },
+  {
+    "id": "8234bec6-9b93-4530-b886-8db32183dfac",
+    "data": [
+      {
+        "text": "cuenta ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " chiste",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525308659
+  },
+  {
+    "id": "f80ce566-31ec-4c48-9303-727278012cd3",
+    "data": [
+      {
+        "text": "cuentame ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " chiste",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525308659
+  },
+  {
+    "id": "43ba40a1-c8fa-48ed-9b7e-fec30808b716",
+    "data": [
+      {
+        "text": "chiste",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525308659
+  }
+]

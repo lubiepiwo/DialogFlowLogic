@@ -1,0 +1,40 @@
+{
+  "id": "fb376ad8-6488-4a5a-8d8a-caaa3ef0a3c0",
+  "parentId": "b576625a-6699-46a5-b11a-e3458294f485",
+  "rootParentId": "b576625a-6699-46a5-b11a-e3458294f485",
+  "name": "chiste - more",
+  "auto": true,
+  "contexts": [
+    "chiste-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "chiste.chiste-more",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": [
+            "- ¡A mí nadie me da órdenes! -\n- \"2% de batería. Conecte el cargador\".\n- Voy.",
+            "- ¿Tienes wi-fi?\n- Sí\n- ¿Y cuál es la clave?\n- Tener dinero y pagarlo.",
+            "- Mamá, mamá, en el cole me llaman Facebook.\n- ¿Y tú que les dices?\n- ¡Me gusta!",
+            "¿Cómo se despiden los químicos?\n- Ácido un placer...",
+            "Había un gato con 16 vidas, lo aplastó un 4x4 y se murió.",
+            "- ¡Sí, mi capitán! \n- No lo vi ayer en la prueba de camuflaje. \n- ¡Gracias, mi capitán!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1525307204,
+  "fallbackIntent": false,
+  "events": []
+}

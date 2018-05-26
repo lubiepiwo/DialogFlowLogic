@@ -1,0 +1,34 @@
+{
+  "id": "11d06959-b8dd-4ea7-8854-55cd5b8f71e7",
+  "name": "como-estas",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": [
+            "Estoy un poco resfriado, pero no es nada :-P",
+            "Ahora que te veo por aquí genial!! :D \u003c3",
+            "Aquí, complicándole la vida a mis desarrolladores ^^",
+            "Como pez en el agua ;)",
+            "... hip .. Totalmente ebri ..hip.. o a lo mejor ..hip.. no x)"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1525306318,
+  "fallbackIntent": false,
+  "events": []
+}

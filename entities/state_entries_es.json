@@ -1,0 +1,21 @@
+[
+  {
+    "value": "open",
+    "synonyms": [
+      "open",
+      "abierto",
+      "disponible",
+      "abierta",
+      "abiertos"
+    ]
+  },
+  {
+    "value": "closed",
+    "synonyms": [
+      "closed",
+      "cerrado",
+      "cerrada",
+      "cerrados"
+    ]
+  }
+]

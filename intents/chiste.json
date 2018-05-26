@@ -1,0 +1,41 @@
+{
+  "id": "b576625a-6699-46a5-b11a-e3458294f485",
+  "name": "chiste",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "chiste-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": [
+            "- ¡Sí, mi capitán! \n- No lo vi ayer en la prueba de camuflaje. \n- ¡Gracias, mi capitán!",
+            "Había un gato con 16 vidas, lo aplastó un 4x4 y se murió.",
+            "¿Cómo se despiden los químicos?\n- Ácido un placer...",
+            "- Mamá, mamá, en el cole me llaman Facebook.\n- ¿Y tú que les dices?\n- ¡Me gusta!",
+            "- ¿Tienes wi-fi?\n- Sí\n- ¿Y cuál es la clave?\n- Tener dinero y pagarlo.",
+            "- ¡A mí nadie me da órdenes! -\n- \"2% de batería. Conecte el cargador\".\n- Voy."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1525308659,
+  "fallbackIntent": false,
+  "events": []
+}

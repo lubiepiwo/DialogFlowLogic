@@ -1,0 +1,40 @@
+[
+  {
+    "value": "5 estrellas",
+    "synonyms": [
+      "muy bueno",
+      "buenisimo",
+      "5 estrellas"
+    ]
+  },
+  {
+    "value": "4 estrellas",
+    "synonyms": [
+      "bueno",
+      "4 estrellas"
+    ]
+  },
+  {
+    "value": "3 estrellas",
+    "synonyms": [
+      "normal",
+      "suficiente",
+      "3 estrellas"
+    ]
+  },
+  {
+    "value": "2 estrellas",
+    "synonyms": [
+      "malo",
+      "2 estrellas"
+    ]
+  },
+  {
+    "value": "1 estrella",
+    "synonyms": [
+      "muy malo",
+      "pésimo",
+      "1 estrella"
+    ]
+  }
+]

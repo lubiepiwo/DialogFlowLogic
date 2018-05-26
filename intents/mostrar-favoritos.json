@@ -1,0 +1,37 @@
+{
+  "id": "3087dbfa-a80e-42ec-ae85-3e2e1dc794ea",
+  "name": "mostrar-favoritos",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "list.fav",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "af6f5f79-47f8-42be-b57d-15019bbb83c0",
+          "dataType": "@dev_places",
+          "name": "dev_places",
+          "value": "$dev_places",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524335177,
+  "fallbackIntent": false,
+  "events": []
+}

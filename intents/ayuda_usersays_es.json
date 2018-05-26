@@ -1,0 +1,110 @@
+[
+  {
+    "id": "b5be2a67-237e-40ee-a9a3-aa223f5012ba",
+    "data": [
+      {
+        "text": "que hago?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519876629
+  },
+  {
+    "id": "fef961c1-da2c-4156-9c5a-2446dbd6a017",
+    "data": [
+      {
+        "text": "que puedes hacer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519876629
+  },
+  {
+    "id": "b610da61-8077-4ef6-89e7-77b6f33ec35f",
+    "data": [
+      {
+        "text": "que puedo hacer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519876629
+  },
+  {
+    "id": "838e51a6-da26-4452-89cb-f974e8037975",
+    "data": [
+      {
+        "text": "como funciona esto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519876629
+  },
+  {
+    "id": "750980da-81ca-4c8f-9d15-80594b914ce6",
+    "data": [
+      {
+        "text": "q es eso",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f40e0646-3479-45ef-9a16-f1f4caa99d95",
+    "data": [
+      {
+        "text": "que tengo que hacer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519876629
+  },
+  {
+    "id": "be65f9d8-3a3a-495a-8c51-6bd6df7d8fc7",
+    "data": [
+      {
+        "text": "ayuda",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519876629
+  },
+  {
+    "id": "e956b5b1-c049-442d-a074-67fc2367bf8b",
+    "data": [
+      {
+        "text": " \u003dK",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bed015b4-cf22-4a43-8379-68cdd2baef59",
+    "data": [
+      {
+        "text": "necesito ayuda",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519876629
+  }
+]

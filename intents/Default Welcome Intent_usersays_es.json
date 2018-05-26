@@ -1,0 +1,110 @@
+[
+  {
+    "id": "883864d3-5ac3-494a-8ace-e6380391ab4f",
+    "data": [
+      {
+        "text": "hey",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526224914
+  },
+  {
+    "id": "8f2eee5e-b0d3-4677-8384-84dd4e30b887",
+    "data": [
+      {
+        "text": "/start",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526225002
+  },
+  {
+    "id": "8f3127fa-4ae8-40e4-a54a-14d047d0fdbe",
+    "data": [
+      {
+        "text": "buenas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526224914
+  },
+  {
+    "id": "f61ae586-de82-4753-b354-e405a747c4d2",
+    "data": [
+      {
+        "text": "hi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526224914
+  },
+  {
+    "id": "4e4f5517-8470-47e6-a6f4-2f0853ea99fb",
+    "data": [
+      {
+        "text": "hola",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1526224914
+  },
+  {
+    "id": "58c6266b-db2c-4509-be8c-8a0433a535db",
+    "data": [
+      {
+        "text": "Holaaa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1526224914
+  },
+  {
+    "id": "0e1ac3d7-331b-4dde-b6b2-0beff5d747f7",
+    "data": [
+      {
+        "text": "buenos días",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526224914
+  },
+  {
+    "id": "07ed490e-eb5d-40f8-af18-1142305e8263",
+    "data": [
+      {
+        "text": "ey",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526224914
+  },
+  {
+    "id": "0e45c07a-3b51-4a23-810f-dd68847badb1",
+    "data": [
+      {
+        "text": "nas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526224914
+  }
+]

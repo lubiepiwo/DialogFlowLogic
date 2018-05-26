@@ -1,0 +1,385 @@
+[
+  {
+    "id": "09f60c2e-bb41-4a37-b2a9-b2b888a17ed4",
+    "data": [
+      {
+        "text": "que no sea ",
+        "userDefined": false
+      },
+      {
+        "text": "caro",
+        "alias": "price",
+        "meta": "@price",
+        "userDefined": false
+      },
+      {
+        "text": ", que este ",
+        "userDefined": false
+      },
+      {
+        "text": "abierto",
+        "alias": "state",
+        "meta": "@state",
+        "userDefined": false
+      },
+      {
+        "text": " y tenga ",
+        "userDefined": false
+      },
+      {
+        "text": "minimo",
+        "alias": "minmax",
+        "meta": "@minmax",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2 estrellas",
+        "alias": "rating",
+        "meta": "@rating",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526217607
+  },
+  {
+    "id": "5b8fc5f8-cac3-401e-9bc4-63b0dd1bd816",
+    "data": [
+      {
+        "text": "y ",
+        "userDefined": false
+      },
+      {
+        "text": "abierto",
+        "alias": "state",
+        "meta": "@state",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1526217607
+  },
+  {
+    "id": "46b95212-eb82-4890-82b2-1c4482680c58",
+    "data": [
+      {
+        "text": "y que tengo ",
+        "userDefined": false
+      },
+      {
+        "text": "3 estrellas",
+        "alias": "rating",
+        "meta": "@rating",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mínimo",
+        "alias": "minmax",
+        "meta": "@minmax",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526217607
+  },
+  {
+    "id": "a2d820ad-ef12-465f-bfce-6ee370b05ec9",
+    "data": [
+      {
+        "text": "barato",
+        "alias": "price",
+        "meta": "@price",
+        "userDefined": false
+      },
+      {
+        "text": " y con ",
+        "userDefined": false
+      },
+      {
+        "text": "5 estrellas",
+        "alias": "rating",
+        "meta": "@rating",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526217607
+  },
+  {
+    "id": "cc9399dd-b4f6-4a38-bcfc-a6886a212c0d",
+    "data": [
+      {
+        "text": "y que esté ",
+        "userDefined": false
+      },
+      {
+        "text": "abierto",
+        "alias": "state",
+        "meta": "@state",
+        "userDefined": false
+      },
+      {
+        "text": " y sea ",
+        "userDefined": false
+      },
+      {
+        "text": "barato",
+        "alias": "price",
+        "meta": "@price",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526217607
+  },
+  {
+    "id": "306c7957-21e1-4bb6-a446-16161596e041",
+    "data": [
+      {
+        "text": "con ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "maximo",
+        "alias": "minmax",
+        "meta": "@minmax",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "3 estrellas",
+        "alias": "rating",
+        "meta": "@rating",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526217607
+  },
+  {
+    "id": "61258a1f-4be0-4f83-93f4-96725664522f",
+    "data": [
+      {
+        "text": "que sea ",
+        "userDefined": false
+      },
+      {
+        "text": "barato",
+        "alias": "price",
+        "meta": "@price",
+        "userDefined": false
+      },
+      {
+        "text": " y esté ",
+        "userDefined": false
+      },
+      {
+        "text": "abierto",
+        "alias": "state",
+        "meta": "@state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526217607
+  },
+  {
+    "id": "4af81177-d9b7-4018-b6b9-dfb1bf4a1b9e",
+    "data": [
+      {
+        "text": "y que tenga ",
+        "userDefined": false
+      },
+      {
+        "text": "minimo",
+        "alias": "minmax",
+        "meta": "@minmax",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "3 estrellas",
+        "alias": "rating",
+        "meta": "@rating",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526217607
+  },
+  {
+    "id": "0c0478fe-b40e-4332-b158-cf3b3d93fd45",
+    "data": [
+      {
+        "text": "abierto",
+        "alias": "state",
+        "meta": "@state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1526217607
+  },
+  {
+    "id": "e9f1a0b7-ed76-4514-9243-0c2308f7e07f",
+    "data": [
+      {
+        "text": "y ",
+        "userDefined": false
+      },
+      {
+        "text": "abierta",
+        "alias": "state",
+        "meta": "@state",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1526217607
+  },
+  {
+    "id": "f80aad46-253e-4f6b-8f11-0bc7ca3297b2",
+    "data": [
+      {
+        "text": "barato",
+        "alias": "price",
+        "meta": "@price",
+        "userDefined": false
+      },
+      {
+        "text": " y ",
+        "userDefined": false
+      },
+      {
+        "text": "abierto",
+        "alias": "state",
+        "meta": "@state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526217607
+  },
+  {
+    "id": "238e31a4-971a-48b5-97d9-dfd4e9dd6e83",
+    "data": [
+      {
+        "text": "con ",
+        "userDefined": false
+      },
+      {
+        "text": "maximo",
+        "alias": "minmax",
+        "meta": "@minmax",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "3 estrellas",
+        "alias": "rating",
+        "meta": "@rating",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1526217607
+  },
+  {
+    "id": "2c96d845-f36b-4468-8cd3-0f6e4d51eba9",
+    "data": [
+      {
+        "text": "abierto",
+        "alias": "state",
+        "meta": "@state",
+        "userDefined": false
+      },
+      {
+        "text": " y que no sea muy ",
+        "userDefined": false
+      },
+      {
+        "text": "caro",
+        "alias": "price",
+        "meta": "@price",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526217607
+  },
+  {
+    "id": "f652324f-ad2b-4d16-93da-2938c12d6413",
+    "data": [
+      {
+        "text": "y que esté ",
+        "userDefined": false
+      },
+      {
+        "text": "bueno",
+        "alias": "rating",
+        "meta": "@rating",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526217607
+  },
+  {
+    "id": "148b2f03-345e-4809-9220-4f63736d2b7b",
+    "data": [
+      {
+        "text": "en ",
+        "userDefined": false
+      },
+      {
+        "text": "Adeje",
+        "alias": "municipio",
+        "meta": "@dev_mun",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526217607
+  }
+]
